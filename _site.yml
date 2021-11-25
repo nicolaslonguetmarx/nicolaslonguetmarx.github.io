@@ -1,5 +1,6 @@
 name: "website-nicolaslonguetmarx"
 title: "Nicolas Longuet Marx"
+theme: NLM_website.css
 description: |
   NLM Website
 output_dir: "docs"
@@ -12,4 +13,5 @@ navbar:
       href: research.html
     - text: "CV"
       href: "NLM_CV_nov21.pdf"
+  search: false
 output: distill::distill_article
