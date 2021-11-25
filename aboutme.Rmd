@@ -1,0 +1,24 @@
+---
+title: "Nicolas Longuet Marx"
+image: "photo_nlm.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nicolas-longuet-marx-32888812b/"
+  - label: Twitter
+    url: "https://twitter.com/NLonguetMarx/"
+  - label: GitHub
+    url: "https://github.com/n-longuetmarx/"
+  - label: Email
+    url: "mailto:nicolas.longuetmarx@columbia.edu"
+output:
+  postcards::trestles
+---
+ 
+I am a third-year PhD Candidate in Sustainable Development at Columbia University. 
+
+My research interests are between political economy, empirical industrial organizations and environmental economics. 
+
+Before joining Columbia, I earned a Master in Quantitative Economics from the Paris School of Economics and a Bachelor in Economics and Social Sciences from Paris Sciences et Lettres. 
+
+I also worked for the French Development Agency (AFD) for the Central Asia regional office in Tashkent, Uzbekistan where I was working on energy and water projects. 
+
