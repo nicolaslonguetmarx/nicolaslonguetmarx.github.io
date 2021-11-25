@@ -2,23 +2,24 @@
 title: "Nicolas Longuet Marx"
 image: "photo_nlm.jpeg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin")` LinkedIn'
     url: "https://www.linkedin.com/in/nicolas-longuet-marx-32888812b/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter")` Twitter'
     url: "https://twitter.com/NLonguetMarx/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/n-longuetmarx/"
-  - label: Email
+  - label: '`r fontawesome::fa("paper-plane")` Email'
     url: "mailto:nicolas.longuetmarx@columbia.edu"
+site: distill::distill_website
 output:
   postcards::trestles
 ---
- 
+
 I am a third-year PhD Candidate in Sustainable Development at Columbia University. 
 
-My research interests are between political economy, empirical industrial organizations and environmental economics. 
+My research stands at the intersection of political economy, empirical industrial organization and environmental economics. 
 
-Before joining Columbia, I earned a Master in Quantitative Economics from the Paris School of Economics and a Bachelor in Economics and Social Sciences from Paris Sciences et Lettres. 
+Before joining Columbia, I earned a [Masters degree in Quantitative Economics from the Paris School of Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/) and a [Bachelor's degree in Economics and Social Sciences from Paris Sciences et Lettres](https://psl.eu/formation/cycle-pluridisciplinaire-detudes-superieures-cpes). 
 
-I also worked for the French Development Agency (AFD) for the Central Asia regional office in Tashkent, Uzbekistan where I was working on energy and water projects. 
+I also worked for the French Development Agency (AFD) at their Central Asia regional office in Tashkent, Uzbekistan where I was working on energy and water projects. 
 
