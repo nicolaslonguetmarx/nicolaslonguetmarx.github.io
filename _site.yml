@@ -13,5 +13,4 @@ navbar:
       href: research.html
     - text: "CV"
       href: "NLM_CV_nov21.pdf"
-  search: false
 output: distill::distill_article
