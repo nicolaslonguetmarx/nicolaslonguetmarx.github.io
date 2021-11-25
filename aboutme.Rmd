@@ -3,7 +3,7 @@ title: "Nicolas Longuet Marx"
 image: "photo_nlm.jpeg"
 links:
   - label: '`r fontawesome::fa("github")` GitHub'
-    url: "https://github.com/n-longuetmarx/"
+    url: "https://github.com/nicolaslonguetmarx/"
   - label: '`r fontawesome::fa("paper-plane")` Email'
     url: "mailto:nicolas.longuetmarx@columbia.edu"
   - label: '`r fontawesome::fa("linkedin")` LinkedIn'
