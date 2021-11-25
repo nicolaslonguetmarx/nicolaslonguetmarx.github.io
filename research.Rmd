@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Working Papers
--	Explaining the changing political cleavages: Party platforms and  voters’ preferences.
+-	Explaining changing political cleavages: Party platforms and  voters’ preferences.
 
 - COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries. with Michael Becher and Vincent Pons. [NBER Working Paper Series, No. 29514, November 2021](
 https://github.com/n-longuetmarx/nicolaslonguetmarx.github.io/blob/main/docs/Becher_LonguetMarx_Pons_NBER.pdf).
