@@ -7,14 +7,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Working Papers
--	Party Lines or Voter Preferences? Explaining Political  [Available upon request]
+-	Party Lines or Voter Preferences? Explaining Political Cleavages. [Available upon request]
 
 - COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries. with Michael Becher and Vincent Pons. [NBER Working Paper Series, No. 29514, November 2021](
 https://www.nber.org/system/files/working_papers/w29514/w29514.pdf).   <br />
 &nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
 
-
-
+ - “Compensate the Losers?” Economy-policy preferences and partisan realignment in the US, with Ilyana Kuziemko and Suresh Naidu [Available upon request]
+ 
 - Weather Shocks, Income and Inequality.  <br />
 &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
 &nbsp;&nbsp;&nbsp; [Working Paper](http://piketty.pse.ens.fr/files/Laubier2018.pdf)
@@ -23,9 +23,6 @@ https://www.nber.org/system/files/working_papers/w29514/w29514.pdf).   <br />
 &nbsp;&nbsp;&nbsp;Press: [[The conversation](https://theconversation.com/inegalites-face-au-changement-climatique-la-balle-est-dans-le-camp-des-plus-riches-116616)]
 
 # Work in Progress
-
-- “Compensate the Losers?” Economy-policy preferences and partisan realignment in the US, with Ilyana Kuziemko and Suresh Naidu
-
 
 - Ownership, Advertising and Content Choice in the News Media, with Pierre Bodéré and Marguerite Obolensky
 
