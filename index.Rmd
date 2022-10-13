@@ -15,7 +15,7 @@ output:
   postcards::trestles
 ---
 
-I am a third-year PhD Candidate in Sustainable Development at Columbia University. 
+I am a fourth-year PhD Candidate in Sustainable Development at Columbia University. 
 
 My research stands at the intersection of political economy, empirical industrial organization and environmental economics. 
 
