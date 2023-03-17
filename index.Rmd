@@ -17,7 +17,7 @@ output:
 
 I am a fourth-year PhD Candidate in Sustainable Development at Columbia University. 
 
-I am currently visitng UC Berkeley, sponsored by [Francesco Trebbi](https://ftrebbi.com). 
+I am currently visiting UC Berkeley, sponsored by [Francesco Trebbi](https://ftrebbi.com). 
 
 My research stands at the intersection of political economy, empirical industrial organization and environmental economics. 
 
