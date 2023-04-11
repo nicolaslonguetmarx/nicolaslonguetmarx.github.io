@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Working Papers
 -	Party Lines or Voter Preferences? Explaining Political Realignment. [Available upon request]
 
-- COVID-19, Government Performance, and Democracy: Survey Experimental Evidence from 12 Countries. with Michael Becher and Vincent Pons. [NBER Working Paper Series, No. 29514, November 2021](
+- Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19. with Michael Becher, Vincent Pons et al. [NBER Working Paper Series, No. 29514, November 2021](
 https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), revise and resubmit <em>Journal of Politics</em>.   <br />
 &nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
 
