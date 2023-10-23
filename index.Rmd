@@ -15,9 +15,9 @@ output:
   postcards::trestles
 ---
 
-I am a fourth-year PhD Candidate in Sustainable Development at Columbia University. 
+I am a fifth-year PhD Candidate in Sustainable Development at Columbia University. 
 
-My research stands at the intersection of political economy, environmental economics, and empirical industrial organization. 
+I am interested in topics in political economy, environmental economics, and empirical industrial organization. 
 
 I was visiting UC Berkeley in the Spring 2023, sponsored by [Francesco Trebbi](https://ftrebbi.com). 
 
