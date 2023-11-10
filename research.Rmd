@@ -7,14 +7,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Working Papers
--	Party Lines or Voter Preferences? Explaining Political Realignment. [Available upon request]
-
+ - “Compensate the Losers?” Economic policy preferences and partisan realignment in the US, with Ilyana Kuziemko and Suresh Naidu. [NBER Working Paper Series, No. 31794, October 2023](https://www.nber.org/system/files/working_papers/w31794/w31794.pdf)  <br />
+ &nbsp;&nbsp;&nbsp; Press: [[New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share)]
+ 
 - Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19. with Michael Becher, Vincent Pons et al. [NBER Working Paper Series, No. 29514, November 2021](
 https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Conditionally accepted at the <em>Journal of Politics</em>.   <br />
 &nbsp;&nbsp;&nbsp;  [CEPR Discussion Paper 18086](https://cepr.org/publications/dp18086)  <br />
 &nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
 
- - “Compensate the Losers?” Economic policy preferences and partisan realignment in the US, with Ilyana Kuziemko and Suresh Naidu. [NBER Working Paper Series, No. 31794, October 2023](https://www.nber.org/system/files/working_papers/w31794/w31794.pdf) 
+
+ -	Party Lines or Voter Preferences? Explaining Political Realignment. [Available upon request]
+
+
+
  
 - Weather Shocks, Income and Inequality.  <br />
 &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
