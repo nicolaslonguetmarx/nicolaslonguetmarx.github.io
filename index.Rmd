@@ -15,7 +15,7 @@ output:
   postcards::trestles
 ---
 
-I am a fifth-year PhD Candidate in Sustainable Development at Columbia University and a Research Fellow of the Columbia Center for Political Economy. 
+I am a fifth-year PhD Candidate in Sustainable Development at Columbia University and a Research Fellow at the Columbia Center for Political Economy. 
 
 I am interested in topics in political economy, environmental economics, and empirical industrial organization. 
 
