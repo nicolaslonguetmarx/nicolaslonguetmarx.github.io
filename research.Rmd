@@ -9,13 +9,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # Publications 
 
 - Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19. with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al. [NBER Working Paper Series, No. 29514, November 2021](
-https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Forthcoming at the <em>Journal of Politics</em>.   <br />
+https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Forthcoming at the <em>Journal of Politics</em> .   <br />
 &nbsp;&nbsp;&nbsp;  [CEPR Discussion Paper 18086](https://cepr.org/publications/dp18086)  <br />
 &nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
 
 
 # Working Papers
- - “Compensate the Losers?” Economic policy preferences and partisan realignment in the US, with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/). [NBER Working Paper Series, No. 31794, October 2023](https://www.nber.org/system/files/working_papers/w31794/w31794.pdf), Reject and Resubmit at the <em>Quarterly Journal of Economics</em>.   <br />
+ - “Compensate the Losers?” Economic policy preferences and partisan realignment in the US, with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/). [NBER Working Paper Series, No. 31794, October 2023](https://www.nber.org/system/files/working_papers/w31794/w31794.pdf), Reject and Resubmit at the <em>Quarterly Journal of Economics</em> .   <br />
  &nbsp;&nbsp;&nbsp; Press: [[New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share)],
  [[Pro Market](https://www.promarket.org/2024/02/26/how-the-democratic-party-lost-less-educated-voters/)]
  
@@ -29,7 +29,7 @@ https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Forthcoming
  
 - Weather Shocks, Income and Inequality.  <br />
 &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
-&nbsp;&nbsp;&nbsp; [Working Paper](https://www.dropbox.com/scl/fi/rt7hoboxdyhcnis66yi4u/WeatherShocks_apr24.pdf?rlkey=aqcvvtjlsqu7r98alh6j01oec&dl=0) 
+&nbsp;&nbsp;&nbsp; [CEEP Working Paper 2024-32](https://ceep.columbia.edu/sites/default/files/content/papers/n32.pdf) 
 
 
 - Non-linear Impacts of Climate Change on Income and Inequality in Viet Nam, with Phan Duy Anh, Etienne Espagne and Ngo Duc Thanh. [AFD Working Paper 2019-101](https://www.afd.fr/fr/media/download/11775), Revise and Resubmit at <em>World Development</em>.  <br />
