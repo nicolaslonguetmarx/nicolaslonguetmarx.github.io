@@ -2487,10 +2487,57 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 <h1 id="work-in-progress">Work in Progress</h1>
 <ul>
+<li><p>Climate Voting in the United States, with <a href="https://matildebombardini.github.io">Matilde Bombardini</a>, <a href="https://eml.berkeley.edu//~ffinan/">Frederico Finan</a>, <a href="https://sites.santafe.edu/~snaidu/">Suresh Naidu</a>m and <a href="https://ftrebbi.com">Francesco Trebbi</a></p></li>
 <li><p>The Nationalization of American Lawmaking? Evidence from State Statutes, with <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://sites.google.com/site/charlesangelucci/&amp;ved=2ahUKEwj92Jy2yMyFAxUSMlkFHfaoAzIQFnoECBQQAQ&amp;usg=AOvVaw1x4b0Iw-Jl0SgEgLrGzgJk">Charles Angelucci</a> and <a href="https://elliottash.com">Elliott Ash</a></p></li>
-<li><p>Ownership, Advertising and Content Choice in the News Media, with <a href="https://pierrebodere.github.io">Pierre Bodéré</a> and <a href="http://margueriteobolensky.github.io/">Marguerite Obolensky</a></p></li>
-<li><p>Do Policies Change Politics? The Political Effects of Minimum Wage Increases, with <a href="https://www.econ.umd.edu/facultyprofile/kaplan/ethan">Ethan Kaplan</a>, <a href="https://sites.santafe.edu/~snaidu/">Suresh Naidu</a>, and <a href="https://www.aaronschein.com">Aaron Schein</a></p></li>
+<li><p>Ownership, Advertising and Content Choice in the News Media, with <a href="https://pierrebodere.github.io">Pierre Bodéré</a> and <a href="http://margueriteobolensky.github.io/">Marguerite Obolensky</a><br></p></li>
+<li><p>Do Policies Change Politics? The Political Effects of Minimum Wage Increases, with <a href="https://www.econ.umd.edu/facultyprofile/kaplan/ethan">Ethan Kaplan</a>, <a href="https://sites.santafe.edu/~snaidu/">Suresh Naidu</a>, and <a href="https://www.aaronschein.com">Aaron Schein</a><br></p></li>
 </ul>
+<style>
+/* Style the abstract button to look like a hyperlink */
+
+.abstract-btn {
+    color: rgba(0, 49, 60, 1); /* Default hyperlink color */
+    cursor: pointer; /* Pointer/hand icon */
+    text-decoration: underline !important; /* Underline text */
+    font-size: 12px; /* Font size */
+    background: none; /* No background */
+    border: none; /* No border */
+    padding: 0; /* No padding */
+    font-family: inherit; /* Inherit font settings */
+    display: inline-block; /* Add this line */
+}
+
+/* Change text color on hover */
+.abstract-btn:hover {
+    color: rgba(0, 49, 60, 0.4); /* Hover color */
+    text-decoration: underline; /* Ensure underline on hover */
+}
+
+/* Style the abstract content */
+.abstract-content {
+    margin-top: 10px; /* Some space above the abstract content */
+    padding: 10px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light gray background */
+    font-size: 8px; /* Adjust the font size to your preference */
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var buttons = document.querySelectorAll('.abstract-btn');
+    buttons.forEach(function(button) {
+        button.addEventListener('click', function() {
+            var abstract = button.parentElement.nextElementSibling;
+            if (abstract.style.display === 'none' || abstract.style.display === '') {
+                abstract.style.display = 'block';
+            } else {
+                abstract.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

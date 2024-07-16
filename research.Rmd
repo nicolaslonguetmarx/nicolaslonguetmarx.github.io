@@ -36,11 +36,61 @@ https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Forthcoming
 &nbsp;&nbsp;&nbsp;Press: [[The conversation](https://theconversation.com/inegalites-face-au-changement-climatique-la-balle-est-dans-le-camp-des-plus-riches-116616)]
 
 # Work in Progress
+- Climate Voting in the United States, with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/)m and [Francesco Trebbi](https://ftrebbi.com)
+
 
 - The Nationalization of American Lawmaking? Evidence from State Statutes, with [Charles Angelucci](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/site/charlesangelucci/&ved=2ahUKEwj92Jy2yMyFAxUSMlkFHfaoAzIQFnoECBQQAQ&usg=AOvVaw1x4b0Iw-Jl0SgEgLrGzgJk) and [Elliott Ash](https://elliottash.com)
 
-- Ownership, Advertising and Content Choice in the News Media, with [Pierre Bodéré](https://pierrebodere.github.io) and [Marguerite Obolensky](http://margueriteobolensky.github.io/)
-
-- Do Policies Change Politics? The Political Effects of Minimum Wage Increases, with [Ethan Kaplan](https://www.econ.umd.edu/facultyprofile/kaplan/ethan), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Aaron Schein](https://www.aaronschein.com)
+- Ownership, Advertising and Content Choice in the News Media, with [Pierre Bodéré](https://pierrebodere.github.io) and [Marguerite Obolensky](http://margueriteobolensky.github.io/)<br>
 
 
+- Do Policies Change Politics? The Political Effects of Minimum Wage Increases, with [Ethan Kaplan](https://www.econ.umd.edu/facultyprofile/kaplan/ethan), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Aaron Schein](https://www.aaronschein.com)<br>
+
+
+
+<style>
+/* Style the abstract button to look like a hyperlink */
+
+.abstract-btn {
+    color: rgba(0, 49, 60, 1); /* Default hyperlink color */
+    cursor: pointer; /* Pointer/hand icon */
+    text-decoration: underline !important; /* Underline text */
+    font-size: 12px; /* Font size */
+    background: none; /* No background */
+    border: none; /* No border */
+    padding: 0; /* No padding */
+    font-family: inherit; /* Inherit font settings */
+    display: inline-block; /* Add this line */
+}
+
+/* Change text color on hover */
+.abstract-btn:hover {
+    color: rgba(0, 49, 60, 0.4); /* Hover color */
+    text-decoration: underline; /* Ensure underline on hover */
+}
+
+/* Style the abstract content */
+.abstract-content {
+    margin-top: 10px; /* Some space above the abstract content */
+    padding: 10px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light gray background */
+    font-size: 8px; /* Adjust the font size to your preference */
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var buttons = document.querySelectorAll('.abstract-btn');
+    buttons.forEach(function(button) {
+        button.addEventListener('click', function() {
+            var abstract = button.parentElement.nextElementSibling;
+            if (abstract.style.display === 'none' || abstract.style.display === '') {
+                abstract.style.display = 'block';
+            } else {
+                abstract.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
