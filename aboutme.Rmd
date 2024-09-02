@@ -1,6 +1,6 @@
 ---
-title: "Nicolas Longuet Marx"
-image: "photo_nlm_circle.png"
+title: "Nicolas Longuet-Marx"
+image: "picture_nlm.png"
 links:
   - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/nicolaslonguetmarx/"
@@ -15,11 +15,18 @@ output:
   postcards::trestles
 ---
 
-I am a fourth-year PhD Candidate in Sustainable Development at Columbia University. 
+I am a sixth-year PhD Candidate in [Sustainable Development at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) and a Research Fellow at the Columbia Center for Political Economy. 
 
-My research stands at the intersection of political economy, empirical industrial organization and environmental economics. 
+I am interested in topics in political economy, environmental economics, and empirical industrial organization. 
 
-Before joining Columbia, I earned a [Masters degree in Quantitative Economics from the Paris School of Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/) and a [Bachelor's degree in Economics and Social Sciences from Paris Sciences et Lettres](https://psl.eu/formation/cycle-pluridisciplinaire-detudes-superieures-cpes). 
+Before joining Columbia, I earned a [Masters degree in Quantitative Economics from the Paris School of Economics](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/) and a [Bachelor's degree in Economics from Paris Sciences et Lettres](https://psl.eu/formation/cycle-pluridisciplinaire-detudes-superieures-cpes). 
+
+I visited UC Berkeley in the Spring 2023, sponsored by [Francesco Trebbi](https://ftrebbi.com). 
 
 I also worked for the French Development Agency (AFD) at their Central Asia regional office in Tashkent, Uzbekistan where I was working on energy and water projects. 
+
+I am on the 2024-2025 academic job market.
+
+
+
 
