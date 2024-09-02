@@ -1,6 +1,6 @@
 ---
 title: "Nicolas Longuet-Marx"
-image: "photo_nlm_circle.png"
+image: "picture_nlm.png"
 links:
   - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/nicolaslonguetmarx/"
@@ -15,7 +15,7 @@ output:
   postcards::trestles
 ---
 
-I am a fifth-year PhD Candidate in Sustainable Development at Columbia University and a Research Fellow at the Columbia Center for Political Economy. 
+I am a sixth-year PhD Candidate in [Sustainable Development at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) and a Research Fellow at the Columbia Center for Political Economy. 
 
 I am interested in topics in political economy, environmental economics, and empirical industrial organization. 
 
