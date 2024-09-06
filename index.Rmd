@@ -15,6 +15,7 @@ output:
   postcards::trestles
 ---
 
+
 I am a sixth-year PhD Candidate in [Sustainable Development at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) and a Research Fellow at the Columbia Center for Political Economy. 
 
 I am interested in topics in political economy, environmental economics, and empirical industrial organization. 

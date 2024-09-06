@@ -8,8 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Publications 
 
-Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19. with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al. [NBER Working Paper Series, No. 29514, November 2021](
-https://www.nber.org/system/files/working_papers/w29514/w29514.pdf), Forthcoming at the <em>Journal of Politics</em> .   <br />
+[Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19.](BLMP.pdf) with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al., Forthcoming at the <em>Journal of Politics</em> .   <br />
 &nbsp;&nbsp;&nbsp;  [CEPR Discussion Paper 18086](https://cepr.org/publications/dp18086)  <br />
 &nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
 
@@ -21,7 +20,7 @@ Crises of the magnitude of the Covid-19 pandemic may plausibly affect deep-seate
 </div>
 
 # Working Papers
- “Compensate the Losers?” Economic policy preferences and partisan realignment in the US, with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/). [NBER Working Paper Series, No. 31794, October 2023](https://www.nber.org/system/files/working_papers/w31794/w31794.pdf), Reject and Resubmit at the <em>Quarterly Journal of Economics</em> .   <br />
+ [“Compensate the Losers?” Economic policy preferences and partisan realignment in the US](KLMN.pdf), with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/)., Reject and Resubmit at the <em>Quarterly Journal of Economics</em> .   <br />
  &nbsp;&nbsp;&nbsp; Press: [[New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share)],
  [[Pro Market](https://www.promarket.org/2024/02/26/how-the-democratic-party-lost-less-educated-voters/)]
  
@@ -33,7 +32,7 @@ We argue that the Democratic Party’s evolution on economic policy helps explai
 </div>
  
 
-Party Lines or Voter Preferences? Explaining Political Realignment. <span style="font-weight: 900 !important; font-size: 1em;"> Job Market Paper. </span> [Available upon request]   <br />
+[Party Lines or Voter Preferences? Explaining Political Realignment.](PartyLines_NLM.pdf) <span style="font-weight: 900 !important; font-size: 1em;"> Job Market Paper. </span>   <br />
 &nbsp;&nbsp;&nbsp; Awarded Best Student Work - [IPUMS Spatial 2023 ](https://www.ipums.org/impact/ipums-research-award?utm_source=IPUMS+Emails&utm_campaign=1d9161f8c5-EMAIL_CAMPAIGN_2019_05_31_07_13_COPY_01&utm_medium=email&utm_term=0_a679127ff0-1d9161f8c5-21864473)
 
 <p style="margin-top: -15px">
@@ -45,9 +44,9 @@ This paper addresses how to disentangle demand factors (voters) from supply fact
 
 
  
-Weather Shocks, Income and Inequality.  <br />
+[Weather Shocks, Income and Inequality.](LM2024.pdf)  <br />
 &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
-&nbsp;&nbsp;&nbsp; [CEEP Working Paper 2024-32](https://ceep.columbia.edu/sites/default/files/content/papers/n32.pdf) 
+&nbsp;&nbsp;&nbsp; 
 
 <p style="margin-top: -15px">
     <button class="abstract-btn">Abstract</button>
@@ -59,7 +58,7 @@ We then use a Regional Climate Model to predict potential effects of global warm
 </div>
 
 
-Non-linear Impacts of Climate Change on Income and Inequality in Viet Nam, with Etienne Espagne and Ngo Duc Thanh. [AFD Working Paper 2019-101](https://www.afd.fr/en/ressources/non-linear-impacts-climate-change-income-and-inequality-vietnam), Revise and Resubmit at <em>World Development</em>.  <br />
+[Non-linear Impacts of Climate Change on Income and Inequality in Viet Nam](LMED.pdf), with Etienne Espagne and Ngo Duc Thanh, Revise and Resubmit at <em>World Development</em>.  <br />
 &nbsp;&nbsp;&nbsp;Press: [[The conversation](https://theconversation.com/inegalites-face-au-changement-climatique-la-balle-est-dans-le-camp-des-plus-riches-116616)]
 
 <p style="margin-top: -15px">
