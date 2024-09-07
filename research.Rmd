@@ -70,10 +70,10 @@ This paper measures the marginal impact of climate variability on Vietnamese hou
 
 
 # Work in Progress
-Climate Voting in the United States, with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Francesco Trebbi](https://ftrebbi.com)
+Climate Politics in the United States, with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Francesco Trebbi](https://ftrebbi.com)
 
 
-The Nationalization of American Lawmaking? Evidence from State Statutes, with [Charles Angelucci](https://sites.google.com/site/charlesangelucci/) and [Elliott Ash](https://elliottash.com)
+The Polarization of State Legislatures? Evidence from State Statutes, with [Charles Angelucci](https://sites.google.com/site/charlesangelucci/) and [Elliott Ash](https://elliottash.com)
 
 <p style="margin-top: -15px">
     <button class="abstract-btn">Abstract</button>
