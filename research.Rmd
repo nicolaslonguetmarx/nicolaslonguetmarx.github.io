@@ -9,8 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Publications 
 
 [Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19.](BLMP.pdf) with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al., Forthcoming at the <em>Journal of Politics</em> .   <br />
-&nbsp;&nbsp;&nbsp;  [CEPR Discussion Paper 18086](https://cepr.org/publications/dp18086)  <br />
-&nbsp;&nbsp;&nbsp; Press: [[The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)]
+&nbsp;&nbsp;&nbsp; Press: [The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)
 
 <p style="margin-top: -15px">
     <button class="abstract-btn">Abstract</button>
@@ -34,8 +33,8 @@ This paper addresses how to disentangle demand factors (voters) from supply fact
 
  
  [“Compensate the Losers?” Economic policy preferences and partisan realignment in the US](KLMN.pdf), with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/)., Reject and Resubmit at the <em>Quarterly Journal of Economics</em> .   <br />
- &nbsp;&nbsp;&nbsp; Press: [[New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share)],
- [[Pro Market](https://www.promarket.org/2024/02/26/how-the-democratic-party-lost-less-educated-voters/)]
+ &nbsp;&nbsp;&nbsp; Press: [New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share),
+ [Pro Market](https://www.promarket.org/2024/02/26/how-the-democratic-party-lost-less-educated-voters/)
  
 <p style="margin-top: -15px">
     <button class="abstract-btn">Abstract</button>
