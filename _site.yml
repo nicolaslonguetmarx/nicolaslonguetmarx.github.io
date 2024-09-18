@@ -12,5 +12,5 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: "NLM_CV_sept24.pdf"
+      href: "NLM_CV.pdf"
 output: distill::distill_article
