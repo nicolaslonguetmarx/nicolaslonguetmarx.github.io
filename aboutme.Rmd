@@ -1,6 +1,6 @@
 ---
 title: "Nicolas Longuet-Marx"
-image: "picture_nlm.png"
+image: "picture_nlm2.png"
 links:
   - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/nicolaslonguetmarx/"
