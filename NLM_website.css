@@ -97,6 +97,11 @@ a:hover {
 	color: rgba(0, 49, 60, 0.4);
 }
 
+/* bold */
+b, strong {
+   color: rgba(0, 49, 60, 1);
+}
+
 /* Buttons on postcard */
 .btn-outline-dark {
     color: rgba(0, 49, 60, 1);
