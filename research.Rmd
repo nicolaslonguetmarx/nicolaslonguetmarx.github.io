@@ -6,6 +6,20 @@ title: "Research Projects"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Job Market Paper 
+
+[Party Lines or Voter Preferences? Explaining Political Realignment](PartyLines_NLM.pdf).  <br />
+&nbsp;&nbsp;&nbsp; Awarded Best Student Work - [IPUMS Spatial 2023 ](https://www.ipums.org/impact/ipums-research-award?utm_source=IPUMS+Emails&utm_campaign=1d9161f8c5-EMAIL_CAMPAIGN_2019_05_31_07_13_COPY_01&utm_medium=email&utm_term=0_a679127ff0-1d9161f8c5-21864473)
+
+<p style="margin-top: -15px">
+    <button class="abstract-btn">Abstract</button>
+</p>
+<div class="abstract-content">
+This paper addresses how to disentangle demand factors (voters) from supply factors (politicians) in shaping political outcomes, focusing on the recent realignment of blue-collar voters away from left-wing parties. I develop a multidimensional political equilibrium model to evaluate the roles of demand- and supply-side factors in the U.S. educational realignment between 2000 and 2020. On the supply side, I estimate candidate positioning using a multimodal text-and-survey model from campaign websites, finding that candidate polarization on cultural issues has been twice as large as on economic issues. On the demand side, I build a new panel of precinct-level election results and identify voter preferences from congressional district border discontinuities. Using a model of political competition where candidates balance electability against compliance with the party line, I show that House candidates' ability to adapt their positions to their constituents has been divided by three. The paper shows that realignment is driven mainly by changes in party positioning — particularly parties' stronger polarization on cultural than economic issues — rather than by shifts in voter preferences. Finally, I simulate support for introducing an environmental dimension, revealing that progressive environmental policies with economic measures would attract more support from less-educated voters than those focused on cultural aspects.
+</div>
+
+
+
 # Publications 
 
 [Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19.](BLMP.pdf) with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al., Forthcoming at the <em>Journal of Politics</em> .   <br />
@@ -18,17 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Crises of the magnitude of the Covid-19 pandemic may plausibly affect deep-seated attitudes of a large fraction of citizens. In particular, outcome-oriented theories imply that leaders' performance in response to such adverse events shapes people’s views about the government and about democracy. To assess these causal linkages empirically, we use a pre-registered survbey experiment covering 12 countries and 22,500 respondents during the pandemic. Our design enables us to leverage exogenous variation in evaluations of policies and leaders with an instrumental variables strategy. We find that people use information on both health and economic performance when evaluating the government. In turn, dissatisfaction with the government decreases satisfaction with how democracy works, but it does not increase support for non-democratic alternatives. The results suggests that comparatively bad government performance mainly spurs internal critiques of democracy. 
 </div>
 
-# Working Papers
-
-[Party Lines or Voter Preferences? Explaining Political Realignment](PartyLines_NLM.pdf), (Job Market Paper).  <br />
-&nbsp;&nbsp;&nbsp; Awarded Best Student Work - [IPUMS Spatial 2023 ](https://www.ipums.org/impact/ipums-research-award?utm_source=IPUMS+Emails&utm_campaign=1d9161f8c5-EMAIL_CAMPAIGN_2019_05_31_07_13_COPY_01&utm_medium=email&utm_term=0_a679127ff0-1d9161f8c5-21864473)
-
-<p style="margin-top: -15px">
-    <button class="abstract-btn">Abstract</button>
-</p>
-<div class="abstract-content">
-This paper addresses how to disentangle demand factors (voters) from supply factors (politicians) in shaping political outcomes, focusing on the recent realignment of blue-collar voters away from left-wing parties. I develop a multidimensional political equilibrium model to evaluate the roles of demand- and supply-side factors in the U.S. educational realignment between 2000 and 2020. On the supply side, I estimate candidate positioning using a multimodal text-and-survey model from campaign websites, finding that candidate polarization on cultural issues has been twice as large as on economic issues. On the demand side, I build a new panel of precinct-level election results and identify voter preferences from congressional district border discontinuities. Using a model of political competition where candidates balance electability against compliance with the party line, I show that House candidates' ability to adapt their positions to their constituents has been divided by three. The paper shows that realignment is driven mainly by changes in party positioning — particularly parties' stronger polarization on cultural than economic issues — rather than by shifts in voter preferences. Finally, I simulate support for introducing an environmental dimension, revealing that progressive environmental policies with economic measures would attract more support from less-educated voters than those focused on cultural aspects.
-</div>
+# Other Working Papers
 
 
  
