@@ -50,7 +50,6 @@ We argue that the Democratic Party’s evolution on economic policy helps explai
 
 [Weather Shocks, Income and Inequality.](LM2024.pdf)  <br />
 &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
-&nbsp;&nbsp;&nbsp; 
 
 <p style="margin-top: -15px">
     <button class="abstract-btn">Abstract</button>
@@ -82,7 +81,7 @@ Environmental Protection and Bureaucratic Oversight: Long-Run Economic and Ecolo
     <button class="abstract-btn">Abstract</button>
 </p>
 <div class="abstract-content">
-Does bureaucratic variation in policy enforcement explain geographic disparities in development outcomes? This paper examines the role of Section 404 of the Clean Water Act, the key U.S. regulation governing land development in areas with aquatic resources. Focusing on the spatial variation in U.S. Army Corps district boundaries, which oversee the administration of the regulation, we find significant differences in the enforcement strictness of environmental rules. Leveraging a geographic discontinuity design and remote sensing land use data, we show that these inconsistencies have led to substantial divergences in development patterns across district borders since the late 1970s, with significant effects on income levels, housing expansion, wetland preservation, and flood risks. We evaluate the contribution of various mechanisms, such as local characteristics of district headquarters, political orientation of district head, and potential corruption, in driving these outcomes. We discuss the broader implications of these findings for policy design and environmental governance. Given Section 404's central role in regulating both economic activity and environmental conservation, our results raise important concerns about the uneven administration of federal law and its potential consequences for development and environmental outcomes.
+Does bureaucratic variation in policy enforcement explain geographic disparities in development outcomes? This paper examines the role of Section 404 of the Clean Water Act, the key U.S. regulation governing land development in areas with aquatic resources. Focusing on the spatial variation in U.S. Army Corps district boundaries, which oversee the administration of the regulation, we find significant differences in the enforcement strictness of environmental rules. Leveraging a geographic discontinuity design and remote sensing land use data, we show that these inconsistencies have led to substantial divergences in development patterns across district borders since the late 1970s, with significant effects on housing expansion, wetland preservation, and flood risks. We evaluate the contribution of various mechanisms, such as local characteristics of district headquarters, political orientation of district head, and potential corruption, in driving these outcomes. We discuss the broader implications of these findings for policy design and environmental governance. Given Section 404's central role in regulating both economic activity and environmental conservation, our results raise important concerns about the uneven administration of federal law and its potential consequences for development and environmental outcomes.
 </div>
 
 
