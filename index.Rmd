@@ -27,7 +27,7 @@ I visited UC Berkeley in the Spring 2023, sponsored by [Francesco Trebbi](https:
 
 I also worked for the French Development Agency (AFD) at their Central Asia regional office in Tashkent, Uzbekistan where I was working on energy and water projects. 
 
-**I am on the 2024-2025 academic job market.**
+<p style="font-size: 1.2em;">**I am on the 2024-2025 academic job market. You can access my job market paper <a href="PartyLines_NLM.pdf"  style="color: #b22222; font-weight: bold;">here</a>.**
 
 
 
