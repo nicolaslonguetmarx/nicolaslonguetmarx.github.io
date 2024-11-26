@@ -76,6 +76,14 @@ This paper measures the marginal impact of climate variability on Vietnamese hou
 Climate Politics in the United States, with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Francesco Trebbi](https://ftrebbi.com)
 
 
+<p style="margin-top: -15px">
+    <button class="abstract-btn">Abstract</button>
+</p>
+<div class="abstract-content">
+We empirically study the effects of climate change and mitigation on U.S. politics. We combine new precinct-level voting data and Congressional candidate positions on environmental policy with high-resolution temperature and precipitation data and census-block-level estimates of "green" and "brown" employment shares. Holding politician positions fixed, we examine how vote shares for Democrats and Republicans respond to exogenous changes in local climate and green transition employment. An additional day with temperatures two standard deviations above the historical mean increases the Democratic vote margin by 0.08 to 0.47 percentage points, while a one-percentage-point decrease in brown jobs raises the Democratic vote share by 0.17 points. A comparable increase in green jobs raises Democratic vote shares by 0.45 points, although the estimates are imprecise. To address endogeneity in local job variations, we employ a shift-share design. Using these demand estimates, we incorporate the political supply of environmental policies into a model of political competition and estimate politician supply functions. Conditional on demand, we find that the same shocks at the district-year level shift candidate campaign ideology, pushing Republican candidates toward the center on climate issues and increasing pro-environment roll-call voting by winners. We then incorporate the demand and supply estimates into projections of future climate change and mitigation, outlining the political dynamics across different emission pathways.
+</div>
+
+
 Environmental Protection and Bureaucratic Oversight: Long-Run Economic and Ecological Impacts, with [Charles Taylor](https://ca-taylor.com/) and [David Szakonyi](https://davidszakonyi.com/)
 
 <p style="margin-top: -15px">
