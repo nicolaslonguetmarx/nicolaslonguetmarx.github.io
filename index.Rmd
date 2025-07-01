@@ -16,10 +16,9 @@ output:
     
 ---
 
+I am a PostDoctoral Fellow at the Stanford Institute for Economic Policy Research (SIEPR). I work on questions in political economy, environmental economics, and empirical industrial organization. 
 
-I am a sixth-year PhD Candidate in [Sustainable Development at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) and a Research Fellow at the Columbia Center for Political Economy. I am interested in topics in political economy, environmental economics, and empirical industrial organization. 
-
-I will join the University of California, Berkeley as an Assistant Professor of Economics in July 2026, following a postdoc at the Stanford Institute for Economic Policy Research.
+In July 2026, I will join the University of California, Berkeley as an Assistant Professor of Economics. I received my PhD in [Sustainable Development from Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) in 2025.
 
 
 
