@@ -8,8 +8,8 @@ links:
     url: "mailto:nicolas.longuetmarx@columbia.edu"
   - label: '`r fontawesome::fa("linkedin")` LinkedIn'
     url: "https://www.linkedin.com/in/nicolas-longuet-marx-32888812b/"
-  - label: '`r fontawesome::fa("twitter")` Twitter'
-    url: "https://twitter.com/NLonguetMarx/"
+  - label: '`r fontawesome::fa("share-alt")` Bluesky'
+    url: "https://bsky.app/profile/nicolaslonguetmarx.bsky.social"
 site: distill::distill_website
 output:
   postcards::trestles
