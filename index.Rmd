@@ -5,7 +5,7 @@ links:
   - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/nicolaslonguetmarx/"
   - label: '`r fontawesome::fa("paper-plane")` Email'
-    url: "mailto:nicolas.longuetmarx@columbia.edu"
+    url: "mailto:nicolas.longuetmarx@stanford.edu"
   - label: '`r fontawesome::fa("linkedin")` LinkedIn'
     url: "https://www.linkedin.com/in/nicolas-longuet-marx-32888812b/"
   - label: '`r fontawesome::fa("share-alt")` Bluesky'
