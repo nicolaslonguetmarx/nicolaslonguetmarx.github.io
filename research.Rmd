@@ -46,6 +46,17 @@ This paper estimates a political equilibrium model to disentangle demand factors
   We argue that the Democratic Party’s evolution on economic policy helps explain partisan realignment by education. We show that less-educated Americans differentially demand “predistribution” policies (e.g., a federal jobs guarantee, higher minimum wages, protectionism, and stronger unions), while more-educated Americans differentially favor redistribution (taxes and transfers). This educational gradient in policy preferences has been largely unchanged since the 1940s. We then show the Democrats’ supply of predistribution has declined since the 1970s. We tie this decline to the rise of a self-described "New Democrat" party faction who court more educated voters and are explicitly skeptical of predistribution. Consistent with this faction’s growing influence, we document the significant growth of donations from highly educated donors, especially from out-of-district, who play an increasingly important role in Democratic (especially ``New Democrat'') primary campaigns relative to Republican primaries. In response to these within-party changes in power, less-educated Americans began to leave the Democratic Party in the 1970s, after decades of serving as the party’s base. Roughly half of the total shift can be explained by their changing views of the parties’ economic policies. We also show that in the crucial transition period of the 1970s and 1980s, New Democrat-aligned candidates draw disproportionately from more-educated voters in both survey questions and actual Congressional elections.
 </div>
   
+
+  [Climate Politics in the United States](BFLMNT.pdf), with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Francesco Trebbi](https://ftrebbi.com).
+
+
+<p style="margin-top: -15px">
+  <button class="abstract-btn">Abstract</button>
+  </p>
+  <div class="abstract-content">
+We study the effects of climate change and mitigation-related employment changes on U.S. politics. We combine 2000-2020 precinct-level voting information and congressional candidate positions on environmental policy with high-resolution temperature, precipitation, and census block-group  level measures of "green" and "brown" employment shares. Holding politician positions fixed within a district, we find that Democratic vote shares increase with exogenous changes in local climate and green transition employment. We embed these estimates into a model of political competition, including both direct and demand-driven effects of shocks on candidate supply of climate policy positions. Incorporating these estimates into 2022-2050 projections of climate change and green employment transition, we find that voting for the Democratic Party increases, while both parties move slightly to the right on climate policy. Under worst-case climate projections and current mitigation trajectories, our estimates indicate that the probability the House passes a carbon-pricing bill is 9 percentage points higher in 2050 than in 2020.</div>
+  
+  
   
   [Investigating the Impact of Temperature Shocks on Income Disparity.](LM2024.pdf)  <br />
   &nbsp;&nbsp;&nbsp;First 2021 Joseph Stiglitz Essay Prize of the [International Economic Association](https://www.iea-world.org). <br />
@@ -58,16 +69,6 @@ This paper estimates a political equilibrium model to disentangle demand factors
 We find that days with an average temperature above 15 &deg; C start to have a detrimental effect on average income, with most significant effects located at the top of the distribution; an additional day above 30  &deg; C reduces the average household yearly income by 0.1%. This loss is equivalent to 34% of the average daily contribution to yearly income. I show that weather shocks increase within-country inequality in two distinct ways. Weather shocks increase between-areas inequality as poorer municipalities are more exposed to weather shocks than richer ones. In addition, these shocks also increase within-area inequality by hitting more hardly the lowest income deciles within each municipality. An additional day above 30  &deg; C increases the within-municipality D9/D1 inter-deciles ratio by 1.4 percentage point. 
 We then use a Regional Climate Model to predict potential effects of global warming. Under business as usual scenarios, these effects would be equivalent to a yearly reduction in national income by 1 percentage point over the medium run and 2 percentage points for the last decades of the century, due to additional warm days. Finally, using Randomized Inference, we are able to assess the reliability of the results, controlling for any spurious spatial correlations.
 </div>
-  
-
-  Climate Politics in the United States, with [Matilde Bombardini](https://matildebombardini.github.io), [Frederico Finan](https://eml.berkeley.edu//~ffinan/), [Suresh Naidu](https://sites.santafe.edu/~snaidu/), and [Francesco Trebbi](https://ftrebbi.com).
-
-
-<p style="margin-top: -15px">
-  <button class="abstract-btn">Abstract</button>
-  </p>
-  <div class="abstract-content">
-We study the effects of climate change and mitigation-related employment changes on U.S. politics. We combine 2000-2020 precinct-level voting information and congressional candidate positions on environmental policy with high-resolution temperature and precipitation data and census block-group  level measures of "green" and "brown" employment shares. Holding politician positions fixed within a district, we find that Democratic vote share increases with exogenous changes in local climate and green transition employment. We embed these estimates into a structural model of political competition, including both direct and demand-driven effects of shocks on candidate policy platform supply. Incorporating our model estimates into 2022-2050 projections of climate change and green employment transition, we find that voting for the Democratic Party increases, while both parties move slightly to the right on climate policy. Under worst-case climate projections and current mitigation trajectories, our estimates indicate that the probability the House passes a carbon-pricing bill is 9 percentage points higher in 2050 than in 2020.</div>
   
 # Work in Progress 
   
