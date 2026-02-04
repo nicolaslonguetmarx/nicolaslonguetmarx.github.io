@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Publications 
 
 [Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during Covid-19](BLMP.pdf), with [Michael Becher](https://www.ie.edu/university/about/faculty/michael-becher/), [Vincent Pons](https://www.vincentpons.org) et al. <br />
-Forthcoming at the <em>Journal of Politics</em>.   <br />
+<em>Journal of Politics</em>.  86, no. 4, pp. 1162-1176, October 2024 <br />
   &nbsp;&nbsp;&nbsp; Press: [The conversation](https://theconversation.com/es-la-democracia-el-chivo-expiatorio-de-la-pandemia-174253)
 
 <p style="margin-top: -15px">
