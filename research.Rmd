@@ -72,6 +72,16 @@ We then use a Regional Climate Model to predict potential effects of global warm
   
 # Work in Progress 
   
+Policymaking in the American States, 1787--2020, with [Charles Angelucci](https://sites.google.com/site/charlesangelucci/) and [Elliott Ash](https://elliottash.com)
+
+<p style="margin-top: -15px">
+    <button class="abstract-btn">Abstract</button>
+</p>
+<div class="abstract-content">
+The U.S. federal system is often described as a set of “laboratories of democracy,” yet the structure of policy diffusion across states and between states and the federal government is difficult to measure. We compile the universe of state statutes from 1787–2020 (2.5 million acts) together with all federal statutes, extract distinct policy adoptions (6.5 million) using large language models, and group policies into clusters. We estimate a discrete-choice model of state and federal policy cluster adoption in which each jurisdiction’s decision depends on local conditions as well as horizontal (interstate) and vertical (state-federal) diffusion dynamics. Horizontal diffusion is allowed to vary with geographic, economic, and political alignment between states. To address unobserved correlated shocks, we conduct a range of robustness analyses; in particular, our estimates remain stable under progressively stricter fixed effects, including state-pair × policy × year effects. We also exploit plausibly exogenous variation in peers’ adoption arising from cross-legislature differences in observable characteristics. Geography dominates horizontal diffusion through the mid-twentieth century, economic similarity has a positive and relatively stable effect throughout, and partisan alignment increases sharply after the 1990s but remains comparable to historical levels. Finally, federal legislative activity becomes increasingly predictive of subsequent state legislation after World War II and now exceeds that of any single state, while the predictive relationship from state legislative activity to federal legislation declines over time.
+</div>
+
+
   Environmental Protection and Bureaucratic Oversight: Long-Run Economic and Ecological Impacts, with [Charles Taylor](https://ca-taylor.com/) and [David Szakonyi](https://davidszakonyi.com/)
 
 <p style="margin-top: -15px">
@@ -83,14 +93,6 @@ We then use a Regional Climate Model to predict potential effects of global warm
 
 
 
-The Polarization of State Legislatures? Evidence from State Statutes, with [Charles Angelucci](https://sites.google.com/site/charlesangelucci/) and [Elliott Ash](https://elliottash.com)
-
-<p style="margin-top: -15px">
-    <button class="abstract-btn">Abstract</button>
-</p>
-<div class="abstract-content">
-This paper analyzes the adoption and diffusion of legislation enacted by U.S. States since 1800. We use a large language model to extract and summarize the policy content of 2.5 million statutes, from which we construct measures of similarity and diffusion. We find that states with greater geographic, economic and political similarity implement more similar policies. Consistent with an important component for local preferences in state policies on social issues, the social policy preferences of state residents (but not economic policy preferences) are increasingly determinative of enacted policies. Consistent with increasing nationalization of economic policies, federal legislative texts have become increasingly influential on state legislative texts in laws about the economy. State legislatures with similar partisan compositions used to produce more alike legislation, but that similarity in legislative texts has decreased recently despite continued partisan alignment across those legislatures. Lastly, we classify all policies into 2,048 clusters and document patterns of innovation and diffusion of these policies.
-</div>
 
 
 Ownership, Advertising and Content Choice in the News Media, with [Pierre Bodéré](https://pierrebodere.github.io) and [Marguerite Obolensky](http://margueriteobolensky.github.io/)<br>
