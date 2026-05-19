@@ -1,6 +1,7 @@
 ---
 title: "Nicolas Longuet-Marx"
 image: "Longuet-Marx-013-03.jpg"
+favicon: "stanford-favicon.ico"
 links:
   - label: '`r fontawesome::fa("github")` GitHub'
     url: "https://github.com/nicolaslonguetmarx/"
