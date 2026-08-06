@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Publications 
 
-  [“Compensate the Losers?” Economic Policy and the Origins of U.S. Partisan Realignment](KLMN.pdf), with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/). <br />
-  Forthcoming in the <em>Quarterly Journal of Economics</em>.   <br />
+  [“Compensate the Losers?” Economic Policy and the Origins of U.S. Partisan Realignment](qjag019.pdf), with [Ilyana Kuziemko](https://kuziemko.scholar.princeton.edu) and [Suresh Naidu](https://sites.santafe.edu/~snaidu/). <br />
+  <em>Quarterly Journal of Economics</em>.  141, no. 3, pp. 2087-2145, August 2026    <br />
   &nbsp;&nbsp;&nbsp; Press: [New York Times](https://www.nytimes.com/2023/11/06/opinion/democratic-party-inequality-biden.html?unlocked_article_code=1.8Uw.rkMU.dGuSoKAyAPBx&smid=url-share),
 [Washington Post](https://www.washingtonpost.com/business/2024/11/15/educational-divide-american-politics-trump/),
 [Pro Market](https://www.promarket.org/2024/02/26/how-the-democratic-party-lost-less-educated-voters/)
