@@ -1,5 +1,6 @@
 ---
-  title: "Research"
+title: "Research"
+favicon: "B-favicon.png"
 ---
   
   ```{r setup, include=FALSE}
