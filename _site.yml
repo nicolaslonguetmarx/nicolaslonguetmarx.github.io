@@ -6,6 +6,7 @@ description: |
   NLM Website
 output_dir: "docs"
 base_url: https://nicolaslonguetmarx-github.io/
+google_analytics: "G-C5GH5R8HJW"
 navbar:
   right:
     - text: "Home"

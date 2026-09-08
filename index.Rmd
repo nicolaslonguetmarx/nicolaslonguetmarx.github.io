@@ -17,7 +17,7 @@ output:
     
 ---
 
-I am an Assistant Professor in the department of Economics at the University of California, Berkeley. I was a Postdoctoral Fellow at the Stanford Institute for Economic Policy Research (SIEPR) in 2025-2026. I work on questions in political economy, environmental economics, and empirical industrial organization. 
+I am an Assistant Professor in the department of Economics at the University of California, Berkeley. I was a Postdoctoral Fellow at the Stanford Institute for Economic Policy Research (SIEPR) in 2025-2026. I work on questions in political economy, environmental economics, economic history, and empirical industrial organization. 
 
  I received my PhD in [Sustainable Development from Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) in 2025.
 
