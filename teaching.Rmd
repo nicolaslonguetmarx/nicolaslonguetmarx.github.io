@@ -1,0 +1,63 @@
+---
+title: "Teaching"
+favicon: "B-favicon.png"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Classes
+
+# UC Berkeley
+
+### Introduction to Political Economy — Econ 109
+[**Syllabus**](2026Econ109Syllabus.pdf) &nbsp;&nbsp;|&nbsp;&nbsp;
+[**Class materials**](https://bcourses.berkeley.edu/courses/1557821){target="_blank"}
+
+<details class="course-details">
+<summary>Course description</summary>
+
+<div class="course-description">
+
+This course will provide a broad introduction to political economy, going over both theoretical and empirical questions as well as research methods. The class will devote specific attention to electoral democracies, and in particular the United States and the 2026 midterms, where each student will build an election forecast model.
+
+The class will also introduce students to historical political economy and comparative political economy. The class will cover a wide range of topics: collective choice, voting behavior, turnout, disenfranchisement, civil rights, candidates' and politicians' behavior and accountability, political selection, money and politics, climate and politics, protests, news media and social media, and institutions.
+
+</div>
+</details>
+
+
+<style>
+
+.course-details {
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
+
+.course-details summary {
+  color: rgba(0, 49, 60, 1);
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: underline;
+  text-decoration-color: rgba(150, 150, 150, 1);
+  list-style: none;
+}
+
+.course-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.course-details summary:hover {
+  color: rgba(0, 49, 60, 0.5);
+}
+
+.course-description {
+  margin-top: 12px;
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+</style>
