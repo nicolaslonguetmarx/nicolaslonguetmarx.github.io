@@ -59,6 +59,17 @@ This paper estimates a political equilibrium model to disentangle demand factors
   </p>
   <div class="abstract-content">
 We study the effects of climate change and mitigation-related employment changes on U.S. politics. We combine 2000-2020 precinct-level voting information and congressional candidate positions on environmental policy with high-resolution temperature, precipitation, and census block-group  level measures of "green" and "brown" employment shares. Holding politician positions fixed within a district, we find that Democratic vote shares increase with exogenous changes in local climate and green transition employment. We embed these estimates into a model of political competition, including both direct and demand-driven effects of shocks on candidate supply of climate policy positions. Incorporating these estimates into 2022-2050 projections of climate change and green employment transition, we find that voting for the Democratic Party increases, while both parties move slightly to the right on climate policy. Under worst-case climate projections and current mitigation trajectories, our estimates indicate that the probability the House passes a carbon-pricing bill is 9 percentage points higher in 2050 than in 2020.</div>
+
+
+
+[Journalist Ideology and the Production of News: Evidence from Movers](BCLM.pdf), with Levi Boxell and [Jacob Conway](https://jacob-conway.com/).
+
+
+<p style="margin-top: -15px">
+  <button class="abstract-btn">Abstract</button>
+  </p>
+  <div class="abstract-content">
+What role do journalists play in determining the political slant of the news they produce? We develop and estimate a model where journalists and newspaper outlets contract over both slant and wages. The model implies a set of conditions under which we can consistently estimate the role of journalist preferences in driving the observed variation in slant across outlets by leveraging journalist transitions between outlets. To measure slant, we train a transformer-based, machine learning model using articles tweeted by politicians and apply it to a full-text database of 9+ million newspaper articles published in the US between 2013 and 2018. Under our model and identifying assumptions, our estimates (a) reject the hypothesis that journalists have zero ideological preferences over the content they produce and (b) imply that 10% of the variation in slant can be explained by journalists. When journalists move across outlets, their average slant shifts by 77% of the gap between their destination and origin outlet averages. In counterfactuals that reweight journalist party composition, moving from the observed left-leaning distribution to an even distribution of Democrats, Republicans, and non-partisans shifts average article slant in a more conservative direction, but only by 0.04 standard deviations in slant.</div>
   
   
   
