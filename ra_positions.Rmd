@@ -1,0 +1,15 @@
+---
+title: "RA Positions"
+favicon: "B-favicon.png"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Research Assistant Positions
+
+# UC Berkeley
+
+I am looking to hire a full-time research assistant starting in July 2027. More information and application instructions are available [here](https://aprecruit.berkeley.edu/JPF05595).
